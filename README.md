@@ -1,7 +1,7 @@
 # thesis_code
 Binary classification on survey data using ML methods: Predicting perception of police corruption African Countries
 
-# description
+# Description
 The project is the implementation of a thesis of the master in Data Science and Society at Tilburg University. 
 
 This project implements machine learning methods to predict perception of police corruption in African countries. It uses survey data from the Afrobarometer Merged Round 8 Data (34 Contries), which is publicly available on their website: https://www.afrobarometer.org/survey-resource/merged-round-8-data-34-countries-2022/. 
